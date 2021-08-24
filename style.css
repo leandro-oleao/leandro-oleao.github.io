@@ -7,7 +7,8 @@ h1 {
     color: #223843;
     font-size: 50px;
     line-height: 10px;
-    letter-spacing: 2px;     
+    letter-spacing: 2px;
+    text-align: center;     
     }
 
 p, li {
@@ -57,4 +58,24 @@ ul {
 .list-noformat {
     text-decoration: none;
     font-size: 15px;
+}
+
+#rostoleandro {
+    float: left;
+    padding: 20px;
+    background-color: #CBD4C2;
+    width: 150px;
+}
+
+.image-container {
+    height: 240px;
+}
+
+#descricao, #ola {
+    margin-left: 210px;
+    margin-right: 20px;
+}
+
+ul li:nth-child(odd) {
+  background-color: #CBD4C2;  
 }
