@@ -1,0 +1,60 @@
+body {
+    background-color: #DBD3D8;
+    }
+
+h1 {
+    font-family: bebas neue;
+    color: #223843;
+    font-size: 50px;
+    line-height: 10px;
+    letter-spacing: 2px;     
+    }
+
+p, li {
+    font-family: roboto;
+    color: #50514f;
+    text-align: justify;
+    line-height: 25px
+    }
+
+h2, h3 {
+    font-family: bebas neue;
+    line-height: 10px;
+    letter-spacing: 2px;
+    color: #223843;
+        }
+
+ul {
+    padding: 15px 30px;
+    border-radius: 5px;
+    background-color: #EFF1F3;
+    list-style:square;
+    line-height: 25px ;
+}
+
+.list-size01 {
+    font-size: 20px;
+}
+
+.list-size-special {
+    font-size: 22px;
+    color: #358600;
+}
+
+.button {
+    font-family:bebas neue ;
+    color: white;
+    background-color: #223843 ;
+    padding: 15px 40px;
+    border-radius: 4px;
+    font-size: 16px;
+    line-height: 50px;
+    text-decoration: none;
+    letter-spacing: 2px;
+
+}
+
+.list-noformat {
+    text-decoration: none;
+    font-size: 15px;
+}
